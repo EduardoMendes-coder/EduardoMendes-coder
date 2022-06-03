@@ -1,8 +1,6 @@
 ### Hello, folks! 👋
 <img src="https://raw.githubusercontent.com/gist/EduardoMendes-coder/9eb2ba64999065969a3a9f3eec222c2e/raw/e17282dfb088f524d8c8d36ad6847d512f6d1d3a/backgroundgit.svg"/>
 
-- 🔥 University student developing experience in the programming field.
-
 <br>
 
 <p align="left">
