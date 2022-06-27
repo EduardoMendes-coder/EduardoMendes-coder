@@ -1,5 +1,7 @@
 ### Hello, my name is Eduardo Mendes Pereira and I am currently a software engineering student!
 
+![wallpaper-github](https://user-images.githubusercontent.com/84480565/175969053-a07a5bbf-4c04-48bd-9b0d-d3efacf25136.gif)
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=EduardoMendes-coder&show_icons=true&theme=blue-green" alt="stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMendes-coder&layout=compact&theme=blue-green" alt="most languages"/>
